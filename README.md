@@ -1,2 +1,3 @@
 # WhiteMarker
-A text animation lib for c
+A text animation library for C.<br>
+based in native C
